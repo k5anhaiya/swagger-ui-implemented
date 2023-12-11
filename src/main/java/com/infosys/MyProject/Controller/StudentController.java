@@ -12,6 +12,7 @@ import java.util.List;
 @RequestMapping("/infosys")
 public class StudentController {
 
+
     @Autowired
     StudentService service;
 
